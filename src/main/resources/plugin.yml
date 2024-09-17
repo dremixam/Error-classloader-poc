@@ -1,0 +1,6 @@
+name: test
+version: '1.0-SNAPSHOT'
+main: com.dremixam.test.Test
+api-version: '1.19'
+depend: [ voicechat ]
+#load: STARTUP
